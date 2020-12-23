@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "nodemon src/callback/index",
     "callback:challenge": "nodemon src/callback/challenge",
-    "promise": "nodemon src/promises/index"
+    "promise": "nodemon src/promises/index",
+    "promise:challenge": "nodemon src/promises/challenge"
   },
   "repository": {
     "type": "git",
