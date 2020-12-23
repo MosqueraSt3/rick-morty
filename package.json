@@ -1,0 +1,24 @@
+{
+  "name": "asynchronous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "nodemon src/callback/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosqueraSt3/asynchronous.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosqueraSt3/asynchronous/issues"
+  },
+  "homepage": "https://github.com/MosqueraSt3/asynchronous#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
