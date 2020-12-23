@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "nodemon src/callback/index",
-    "callback:challenge": "nodemon src/callback/challenge"
+    "callback:challenge": "nodemon src/callback/challenge",
+    "promise": "nodemon src/promises/index"
   },
   "repository": {
     "type": "git",
