@@ -8,7 +8,8 @@
     "callback": "nodemon src/callback/index",
     "callback:challenge": "nodemon src/callback/challenge",
     "promise": "nodemon src/promises/index",
-    "promise:challenge": "nodemon src/promises/challenge"
+    "promise:challenge": "nodemon src/promises/challenge",
+    "async": "nodemon src/async/index"
   },
   "repository": {
     "type": "git",
